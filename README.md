@@ -35,3 +35,5 @@ Raw Data → SQL Cleaning & Analysis → Analytical Layer → Python EDA → Pow
 
 MySQL · Python · Pandas · Power BI · Excel
 
+Power BI: Interactive dashboard developed in Power BI. A PDF export is provided for portfolio review.
+
